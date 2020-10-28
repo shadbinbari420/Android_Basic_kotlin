@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Taslk_7_Retrofit"
